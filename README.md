@@ -1,3 +1,8 @@
+### Testing
+To run tests, first 
+1. `./runDevDependencies.R` to install `testthat`
+2. `./test.R` to run tests
+
 ### Introduction
 
 This second programming assignment will require you to write an R
